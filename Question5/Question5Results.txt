@@ -1,0 +1,27 @@
+The searches for the keys using Binary Search are as follows:
+Number of comparisons to find the key Azevedo,Ana using binary search is :8
+Number of comparisons to find the key Silva,Rui using binary search is :8
+Number of comparisons to find the key Boussebough,Imane using binary search is :10
+Number of comparisons to find the key Terracina,Giorgio using binary search is :10
+Number of comparisons to find the key Lefebvre,Peter using binary search is :The key you have entered is not in the list.
+Number of comparisons to find the key Houghten,Sher using binary search is :The key you have entered is not in the list.
+Number of comparisons to find the key Revesz,Peter using binary search is :10
+
+ 
+The searches for the keys using Dictionary Search are as follows: 
+ 
+
+Azevedo,Ana is found in the list at index 142
+Dictionary Search Comparison Count:  153
+Silva,Rui is found in the list at index 1737
+Dictionary Search Comparison Count:  1746
+Boussebough,Imane is found in the list at index 249
+Dictionary Search Comparison Count:  266
+Terracina,Giorgio is found in the list at index 1852
+Dictionary Search Comparison Count:  1869
+Lefebvre,Peter: Not found 
+Dictionary Search Comparison Count:  1042
+Houghten,Sher: Not found 
+Dictionary Search Comparison Count:  796
+Revesz,Peter is found in the list at index 1551
+Dictionary Search Comparison Count:  1563
